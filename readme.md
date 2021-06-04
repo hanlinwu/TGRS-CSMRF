@@ -12,3 +12,7 @@ L. Zhang, H. Wu
 ## Cite
 
 L. Zhang and H. Wu, "Cosaliency Detection and Region-of-Interest Extraction via Manifold Ranking and MRF in Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3079441.
+
+## Contact
+
+Hanlin Wu (hanlinwu@mail.bnu.edu.cn)
